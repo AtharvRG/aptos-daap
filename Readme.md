@@ -33,7 +33,7 @@ Welcome to the **Blockchain Document Management dApp**! 🚀 This decentralized 
 ## 🚀 Get Started  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/<your-repo-name>.git  
+   git clone https://AtharvRG/aptos-dapp.git  
    ```
 2. Install dependencies and deploy the contract.
 3. Start using the dApp to manage your documents securely.
