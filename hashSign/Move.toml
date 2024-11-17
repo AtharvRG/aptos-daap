@@ -3,7 +3,7 @@ name = "hash_sign_dapp"
 version = "1.0.0"
 
 [addresses]
-HashSign="0x62151b6d494764b6caf22451b314cffd70c7bf3b25570c2d0ff195d09021958c"
+HashSign="Put your wallet address here"
 aptos_framework = "0x1"
 
 
